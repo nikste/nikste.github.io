@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Hi!
+
+I'm Nikolaas, Machine Learning and AI specialist.
+I'm into Deep Learning, Computer Vision and Point clouds, CNNs, Normalizing flows, Hyperbolic networks.
+I realize projects from Idea to production, either as Consultant, Lead or hands on Software Engineer.
+
+Currently working for TomTom in Berlin, and actively doing research in collaboration with TU-Delft.
+This page is still under construction.
+Please visit my [Linkedin page](www.linkedin.com/in/nikolaas-steenbergen-04486450).
+
+
+
 
 You can use the [editor on GitHub](https://github.com/nikste/nikste.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
